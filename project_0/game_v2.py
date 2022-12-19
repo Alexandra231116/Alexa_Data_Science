@@ -38,4 +38,4 @@ def score_game(random_predict) -> int:
     return score
 #RUN
 if__name__=='_main_':
-score_game(random_predict)
+    score_game(random_predict)
