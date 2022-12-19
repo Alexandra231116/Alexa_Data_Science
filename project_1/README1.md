@@ -1,17 +1,17 @@
 # Проект 0. Угадай число.
 
 ## Оглавление
-[1. Описание проекта](https://github.com/Alexandra231116/Alexa_Data_Science/blob/main/project_0/README.md#Описание-проекта)
-[2. Какой кейс решаем?](https://github.com/Alexandra231116/Alexa_Data_Science/blob/main/project_0/README.md#Какой-кейс-решаем)
-[3. Краткая информация о данных](https://github.com/Alexandra231116/Alexa_Data_Science/blob/main/project_0/README.md#Краткая-информация-о-данных)
-[4. Этапы работы над проектом](https://github.com/Alexandra231116/Alexa_Data_Science/blob/main/project_0/README.md#Этапы-работы-над-проектом)
-[5. Результат](https://github.com/Alexandra231116/Alexa_Data_Science/blob/main/project_0/README.md#Результат)
-[6. Выводы](https://github.com/Alexandra231116/Alexa_Data_Science/blob/main/project_0/README.md#Выводы)
+[1. Описание проекта](https://github.com/Alexandra231116/Alexa_Data_Science/blob/main/project_1/README1.md#Описание_проекта)
+[2. Какой кейс решаем?](https://github.com/Alexandra231116/Alexa_Data_Science/blob/main/project_1/README1.md#Какой_кейс_решаем)
+[3. Краткая информация о данных](https://github.com/Alexandra231116/Alexa_Data_Science/blob/main/project_1/README1.md#Краткая_информация_о_данных)
+[4. Этапы работы над проектом](https://github.com/Alexandra231116/Alexa_Data_Science/blob/main/project_1/README1.md#Этапы-работы-над-проектом)
+[5. Результат](https://github.com/Alexandra231116/Alexa_Data_Science/blob/main/project_1/README1.md#Результат)
+[6. Выводы](https://github.com/Alexandra231116/Alexa_Data_Science/blob/main/project_1/README1.md#Выводы)
 
 ### Описание проекта
 Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow_up:[к оглавлению](https://github.com/Alexandra231116/Alexa_Data_Science)
+:arrow_up:[к оглавлению](https://github.com/Alexandra231116/Alexa_Data_Science/tree/main/project_1)
 
 
 ### Какой кейс решаем?
@@ -31,4 +31,4 @@
 ### Краткая информация о данных
 ....
 
-:arrow_up:[к оглавлению](https://github.com/Alexandra231116/Alexa_Data_Science)
+:arrow_up:[к оглавлению](https://github.com/Alexandra231116/Alexa_Data_Science/tree/main/project_1)
