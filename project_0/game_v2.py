@@ -18,7 +18,7 @@ def random_predict(number:int=1) -> int:
     return(count)
 print(f'Количество попыток: {random_predict()}')
 def score_game(random_predict) -> int:
-    """За какое количество попыток в среднем из 1000 подходов угадывает наш алгоритм
+    """ За какое количество попыток в среднем из 1000 подходов угадывает наш алгоритм
 
     Args:
         random_predict (_type_): функция угадывания
@@ -34,8 +34,9 @@ def score_game(random_predict) -> int:
         count_ls.append(random_predict(number))
         
     score = int(np.mean(count_ls)) #находим среднее количество попыток
+   
     print(f'Ваш алгоритм в среднем угадывает за {score} количество попыток')
     return score
+
 #RUN
-if__name__=='_main_':
-    score_game(random_predict)
+if__name__=='_main_': score_game(random_predict)
