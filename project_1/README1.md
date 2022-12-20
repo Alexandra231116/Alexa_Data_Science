@@ -5,13 +5,13 @@
 
 [2.Какой кейс решаем?](https://github.com/Alexandra231116/Alexa_Data_Science/blob/main/project_1/README1.md#Какой_кейс_решаем)
 
-[3.Краткая информация о данных](https://github.com/Alexandra231116/Alexa_Data_Science/blob/main/project_1/README1.md#Краткая_информация_о_данных)
+[3.Условия задачи](https://github.com/Alexandra231116/Alexa_Data_Science/blob/main/project_1/README1.md#Условия_задачи)
 
-[4.Этапы работы над проектом](https://github.com/Alexandra231116/Alexa_Data_Science/blob/main/project_1/README1.md#Этапы-работы-над-проектом)
+[4.Метрика качества](https://github.com/Alexandra231116/Alexa_Data_Science/blob/main/project_1/README1.md#Метрика_качества)
 
-[5.Результат](https://github.com/Alexandra231116/Alexa_Data_Science/blob/main/project_1/README1.md#Результат)
+[5.Что практикуем](https://github.com/Alexandra231116/Alexa_Data_Science/blob/main/project_1/README1.md#Что_практикуем)
 
-[6.Выводы](https://github.com/Alexandra231116/Alexa_Data_Science/blob/main/project_1/README1.md#Выводы)
+[6.Результаты](https://github.com/Alexandra231116/Alexa_Data_Science/blob/main/project_1/README1.md#Результаты)
 
 ### Описание проекта
 Угадать загаданное компьютером число за минимальное число попыток.
@@ -22,7 +22,7 @@
 ### Какой кейс решаем?
 Нужно написать программу, которая угадывает число меньше чем за 20 попыток
 
-**Условия соревнования:**
+**Условия задачи:**
 - Компьютер загадывает целое число от 0 до 100, и нам его нужно угадать. Под "угадать" подразумевается "написать программу, которая угадывает число".
 - Алгоритм учитывает информацию о том, больше ли случайное число или меньше нужного нам.
 - Программа должна угадывать число меньше, чем за 20 попыток.
