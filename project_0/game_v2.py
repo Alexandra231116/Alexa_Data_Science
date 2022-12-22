@@ -39,5 +39,5 @@ def score_game(random_predict) -> int:
     return score
 
 #RUN
-if__name__=='_main_':
+if __name__=='__main__': 
     score_game(random_predict)
