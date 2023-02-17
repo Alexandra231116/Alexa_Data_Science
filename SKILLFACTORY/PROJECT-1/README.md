@@ -7,7 +7,7 @@
 ## Описание проекта
 Провести обработку данных из базы резюме, выгруженной с сайта поиска вакансий hh.ru.
 
-:arrow_up:[к оглавлению](https://github.com/Alexandra231116/Alexa_Data_Science)
+:arrow_up:[к оглавлению](https://github.com/Alexandra231116/Alexa_Data_Science/blob/main/SKILLFACTORY/PROJECT-1/Project-1.%20Ноутбук-шаблон.ipynb)
 
 ## Какой кейс решаем?
 Базовый анализ структуры данных
