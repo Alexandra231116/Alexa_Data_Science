@@ -43,3 +43,4 @@
 
 ## Результаты:
 Ноутбук с выполненными заданиями и выводами
+:arrow_up:[к ноутбуку](https://github.com/Alexandra231116/Alexa_Data_Science/blob/main/SKILLFACTORY/PROJECT-1/Project-1.%20Ноутбук-шаблон.ipynb)
