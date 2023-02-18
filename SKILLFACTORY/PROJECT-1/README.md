@@ -7,7 +7,7 @@
 ## Описание проекта
 Провести обработку данных из базы резюме, выгруженной с сайта поиска вакансий hh.ru.
 
-:arrow_up:[к оглавлению](https://github.com/Alexandra231116/Alexa_Data_Science/blob/main/SKILLFACTORY/PROJECT-1/Project-1.%20Ноутбук-шаблон.ipynb)
+:arrow_up:[к ноутбуку](https://github.com/Alexandra231116/Alexa_Data_Science/blob/main/SKILLFACTORY/PROJECT-1/Project-1.%20Ноутбук-шаблон.ipynb)
 
 ## Исходные данные
 [1.Файл с исходными данными](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view#)
@@ -43,5 +43,3 @@
 
 ## Результаты:
 Ноутбук с выполненными заданиями и выводами
-
-⬆️к оглавлению
