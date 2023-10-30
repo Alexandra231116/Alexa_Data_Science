@@ -1,0 +1,135 @@
+<html>
+<body>
+    <h3>Income Prediction Form</h3>
+ 
+<div>
+  <form action="/result" method="POST">
+    <label for="status">status</label>
+    <select id="status" name="status">
+      <option value="0">for sale</option>
+      <option value="1">active</option>
+      <option value="2">foreclosure</option>
+      <option value="3">Private</option>
+      <option value="4">New construction</option>
+      <option value="5">Pending</option>
+      <option value="6">pre-oreclosure</option>
+      <option value="7">other</option>
+    </select>
+    <br>
+    <label for="pt">propertyType</label>
+    <select id="pt" name="pt">
+      <option value="0">SF</option>
+      <option value="1">condo</option>
+      <option value="2">lot/land</option>
+      <option value="3">townhouse</option>
+      <option value="4">Traditional</option>
+      <option value="5">coop</option>
+      <option value="6">mobile</option>
+      <option value="7">other</option>
+    </select>
+    <br>
+    <label for="sqft">num_schools</label>
+    <input type="text" id="sqft" name="sqft">btw:[1-20] or -9999 if not
+    <br>
+    <label for="baths">baths</label>
+    <select id="baths" name="baths">
+      <option value="0">1.0</option>
+      <option value="1">2.0</option>
+      <option value="2">3.0</option>
+      <option value="0">4.0</option>
+      <option value="1">5.0</option>
+      <option value="2">2.5</option>
+      <option value="2">-9999.0</option>
+    </select>
+    <br>  
+    <label for="fire">fireplace</label>
+    <select id="fire" name="fire">
+      <option value="0">1</option>
+      <option value="1">gas</option>
+      <option value="2">2</option>
+      <option value="3">Not Applicable</option>
+      <option value="4">Other</option>
+    </select>
+    <br>
+    <label for="relation">city</label>
+    <select id="relation" name="relation">
+      <option value="0">Houston</option>
+      <option value="1">Miami</option>
+      <option value="2">San Antonio </option>
+    </select>
+    <br>
+    <label for="sqft">sqft</label>
+    <input type="text" id="sqft" name="sqft">btw:[1-4820]
+    <br>
+    <label for="beds">beds</label>
+    <select id="beds" name="beds">
+      <option value="0">0</option>
+      <option value="1">1</option>
+      <option value="2">2</option>
+      <option value="3">3</option>
+      <option value="4">4</option>
+      <option value="5">5</option>
+      <option value="6">6</option>
+      <option value="7">7</option>
+      <option value="8">8</option>
+      <option value="9">9</option>
+      <option value="10">10</option>
+      <option value="11">11</option>
+      <option value="12">12</option>
+      <option value="13">-9999</option>
+    </select>
+    <br>
+    <label for="state">state</label>
+    <select id="state" name="state">
+      <option value="0">FL</option>
+      <option value="1">TX</option>
+      <option value="2">CA</option>
+    </select>
+    <br>
+    <label for="stories">stories</label>
+    <input type="text" id="stories" name="stories">btw:[0-6] and -9999
+    <br>
+    <label for="PrivatePool">PrivatePool</label>
+    <select id="PrivatePool" name="PrivatePool">
+      <option value="0">0</option>
+      <option value="1">1</option>
+    </select>
+    <br>
+    <label for="yb">Year Build</label>
+    <input type="text" id="yb" name="yb">btw:[1700-2022]
+    <br>
+    <label for="ry">Remodeled Year</label>
+    <input type="text" id="ry" name="ry">btw:[1700-2022]
+    <br>
+    <label for="ls">lotsize</label>
+    <input type="text" id="ls" name="ls">btw:[0-3]
+    <br>
+    <label for="ps">Price/sqft</label>
+    <input type="text" id="ps" name="ps">btw:[0-800]
+    <br>
+    <label for="heating">Heating</label>
+    <select id="heating" name="heating">
+      <option value="0">Forced air</option>
+      <option value="1">electric</option>
+      <option value="2">Gas</option>
+      <option value="3">Central</option>
+      <option value="4">pump</option>
+      <option value="5">Other</option>
+    </select>
+    <br>
+    <label for="parking">Parking</label>
+    <select id="parking" name="parking">
+      <option value="0">Attached Garage</option>
+      <option value="1">2 spaces</option>
+      <option value="2">1 space</option>
+      <option value="3">Detached Garage</option>
+      <option value="4">Carport</option>
+      <option value="5">Off street</option> 
+      <option value="6">Other</option>
+    </select>
+    <br>
+    <input type="submit" value="Submit">
+  </form>
+</div>
+</body>
+</html>
